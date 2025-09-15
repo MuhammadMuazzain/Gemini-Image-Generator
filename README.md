@@ -72,7 +72,7 @@ Create product images and easily modify product attributes with simple text inst
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/jkmaina/gemini-image-generator.git
+   git clone https://github.com/MuhammadMuazzain/Gemini-Image-Generator.git
    cd gemini-image-generator
    ```
 
