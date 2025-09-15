@@ -68,12 +68,6 @@ export const config = {
   matcher: '/api/:path*'
 }
 
-
-// export const config = {
-//   matcher: '/api/:path*'
-// }
-
-
 export const config = {
   matcher: '/api/:path*'
 }
