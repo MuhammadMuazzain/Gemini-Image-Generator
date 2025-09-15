@@ -203,5 +203,5 @@ If you find this project helpful, please give it a ⭐️ on GitHub!
 ---
 
 <div align="center">
-  Made with ❤️ by <a href="https://github.com/jkmaina">jkmaina</a>
+  Made with ❤️ by <a href="https://github.com/MuhammadMuazzain">Muhammad Muazzain</a>
 </div>
